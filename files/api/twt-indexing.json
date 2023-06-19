@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-wired-tech",
+  "private_key_id": "1785206c9461a2612dcd65009876ea2db14f2123",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx31BTgrFRAaka\nYrF7EEteRzWHyagxVodfEK4hUUaLAGNEKvvaNRmduaFh0FFSGYl8p0lkA24kYsVq\nP8+27H94+V/TO1kPCh+3vVV5oUcZB3mm7TPiafgwwbVT4Md7KPKd4i5vb5M89ldd\n/4K9wen0YG0JGD9QDFuQrvXqK9pZx/BQICzvLBiBiFAl17q/+fGcE+JKoYMt63xl\no70fIU7G2k3IRUHOFV62+BJc0ErPDyXyKmAh0Lid0QNoleJLw2dyUcqkTw3jnWHc\nrbYIFeuEry9uKYB1KNvQNZ2iyIrelKiWpKMPmmqeRmpu202W0LGn9AuKTET2D5JT\nCwGeCwY3AgMBAAECggEAKRvV+j8B0RmDpiP6JdmJubPWdNgP5bs8VSXLQMsCdTy1\nNHuEspVEItZUrIETUlixlFwrU5CRY5pqStiNnpbBDUoBMhYMyrOJyhLZjt9NycSX\nApPewmzAXjBewpB4OggoLoIoPjv4uQWsAn77jfSjqAWjHY97jnoUrXcqQaE5+Taf\nnbR42c2/W4nlnlYpsG4qDf2a8Dtwq/YyZOvugRzfiOg/NJbUOF0D8lK+hU7aCpDL\nVFqBM4jdltb1j2B9/WS6F9133S5O0eKd4xIjYr3LdgdtUipe6bo+5tDoZnpLacW6\nQsSH1FH8LfJCXgkCEBP9iSOnReIQeUXnx1R/9mQV+QKBgQDuhTzUPlkXZMobZ+ZD\nkhKA1mrQNodMjNkaxIxmxmp6uMsKnqWLU2YCUa3D5TZJIid0FGz6UoU9CZDOkrJv\nddxY57tH0z8qulFlDb2qqcnFCA0+gRFVOk4MtsdHVfgZBjDC9EbheWrYonL/rBzP\nOcSqFvAzjz/FdKL00gWUojjjnwKBgQC+6Elyspa7BDs7oBtuiFapZfX9sIMFlRlo\nCpow0Nglt/vF3Ypv2kjumOEQG53nqCQ/HDx9Aas+vQRCFKbTJrbAlMl5UMAt7kK4\niiXTdbynAnHEAjOF1EjjCswlUA5ZQJg5Sex4vB/k3so5yIsgxPlXyaYo3NTeb6VW\nDGu8DRoWaQKBgAwqsbql34eI9aJGP4Gs3tLBnTs3vNkTyjNKWVsYve+6o2jMROeB\nfo+ZuQJoG8fJPTf3nsN6GB/P8BoJc56p5W6Hi48TYIJ+dI5yD/23oXoyefJ5RPgS\n/E47uJiT8w7buPsI2ODBf8jDKJiQH/wWF0kR2HjY0sjwtStF11EIoVxDAoGAV8nH\npLfdOojamDOrCawmdeWONifKSHHk6gQeHZ6cFtRBMh8LPx5Y9WdV76tTdKjMaj0Y\nz79JuSMAZ0bJ5EVkOrDw6RmqFjT/d48Hj/MPWpl0KVd9y+fv0IAxmmLzBjX/CjEl\nTevsmrmcsu+2ks4hfy4ae6X5OYSLukMh86ruuSkCgYEAzr+NBkgQO89oByBaiVR8\nb04pG1xt7IbgvHTi11s6kYMDaRJnL6i3jhKwB02yGVN+P/IAYs1UUeiQKj4yQ6DP\n0362IYWPsePOKS2onf4om/yKu0rYD0vByUWaQUYlIHgysqy2ug2E+EQYjRqQPyl7\nODN+a81knUxQiB/hwaL1LHc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "the-wired-tech@the-wired-tech.iam.gserviceaccount.com",
+  "client_id": "110532512453023266319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/the-wired-tech%40the-wired-tech.iam.gserviceaccount.com"
+}
